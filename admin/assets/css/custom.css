@@ -1,0 +1,13 @@
+.card-title-new {
+    font-size: 15px;
+    margin: 0 0 7px;
+    font-weight: 600;
+    padding: 15px 15px 10px 25px;
+    border-bottom: 1px solid #ddd;
+    background-color: #e7e7e7;
+}
+
+.table>:not(caption)>*>* {
+    padding: 0.255rem  0.25rem !important;
+    vertical-align: middle;
+}

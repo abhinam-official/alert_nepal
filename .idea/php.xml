@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/admin/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/admin/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/admin/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/admin/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/admin/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/admin/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/admin/vendor/composer" />
+      <path value="$PROJECT_DIR$/admin/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/admin/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/admin/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/admin/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/admin/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/admin/vendor/symfony/polyfill-mbstring" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>
